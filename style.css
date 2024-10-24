@@ -11,5 +11,10 @@ h3 {
   text-again: center;
   text-size: 100px;
 }
-.
-
+.photo {
+  text-again: center;
+  width: 300px;
+}
+.ph {
+  margin-right: 8px;
+}
